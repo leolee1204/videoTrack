@@ -69,5 +69,4 @@ def main():
 
 
 if __name__ == "__main__":
-    gif_path = 'dog.jpg'
     main()
